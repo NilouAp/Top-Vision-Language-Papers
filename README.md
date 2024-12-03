@@ -2,7 +2,7 @@
 This repository collects and categorizes top vision-language papers based on their approaches and applications, with a special focus on the CLIP model. 
 
 ## Contents
-- [vision-language pre-training](#vision-language-pre-training)
+- [Vision-Language Pre-training](#Vision-Language-Pre-training)
 - [Prompt Learning for Vision-Language Models](#Prompt-Learning-for-Vision-Language-Models)
 - [Regularization-Based Prompt Learning](#Regularization-Based-Prompt-Learning)
 - [Test-Time Adaptation of Vision-Language Models](#Test-Time-Adaptation-of-Vision-Language-Models)
