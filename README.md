@@ -14,9 +14,6 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision - ALIGN (ICML 2021) [[Paper]](https://arxiv.org/pdf/2102.05918)[Code]
 
-
-
-
 ## Prompt Learning for Vision-Language Models
 
 - [ ] Learning to Prompt for Vision-Language Models (IJCV 2022) [[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)
