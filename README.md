@@ -27,7 +27,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 ## Feature Adapters for Vision-Language Models
 
--[ ] CLIP-Adapter: Better Vision-Language Models with Feature Adapters (IJCV 2024) [[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
+- [ ] CLIP-Adapter: Better Vision-Language Models with Feature Adapters (IJCV 2024) [[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
 
 - [ ] MMA: Multi-Modal Adapter for Vision-Language Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.pdf)[[Code]](https://github.com/ZjjConan/Multi-Modal-Adapter)
 
