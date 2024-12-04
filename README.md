@@ -6,14 +6,13 @@ This repository collects and categorizes top vision-language papers based on the
 - [Prompt Learning for Vision-Language Models](#Prompt-Learning-for-Vision-Language-Models)
 - [Regularization-Based Prompt Learning](#Regularization-Based-Prompt-Learning)
 - [Test-Time Adaptation of Vision-Language Models](#Test-Time-Adaptation-of-Vision-Language-Models)
-
+- [Feature Adapters for Vision-Language Models](#Feature_Adapters_for_Vision-Language_Models)
  
 ## Vision-Language Pre-training 
 
  - [ ] Learning Transferable Visual Models From Natural Language Supervision - CLIP (ICML 2021) [[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP) 
 
-- [ ] Scaling Up Visual and Vision-Language Representation Learning
-With Noisy Text Supervision - ALIGN (ICML 2021) [[Paper]](https://arxiv.org/pdf/2102.05918)[Code]
+- [ ] Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision - ALIGN (ICML 2021) [[Paper]](https://arxiv.org/pdf/2102.05918)[Code]
 
 
 
@@ -26,6 +25,11 @@ With Noisy Text Supervision - ALIGN (ICML 2021) [[Paper]](https://arxiv.org/pdf/
 
 - [ ]  MaPLe: Multi-modal Prompt Learning (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
 
+## Feature Adapters for Vision-Language Models
+
+-[ ] CLIP-Adapter: Better Vision-Language Models with Feature Adapters (IJCV 2024) [[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
+
+- [ ] MMA: Multi-Modal Adapter for Vision-Language Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.pdf)[[Code]](https://github.com/ZjjConan/Multi-Modal-Adapter)
 
 ## Regularization-Based Prompt Learning
 
