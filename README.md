@@ -42,7 +42,6 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models (NeurIPS 2024) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/cdd0640218a27e9e2c0e52e324e25db0-Paper-Conference.pdf) [code]
 
+- [ ] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 2024) [[paper]](https://arxiv.org/pdf/2403.18293) [[code]](https://github.com/kdiAAA/TDA)
 
-
-
-
+- [ ] BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models (submitted to ICLR 2024) [[paper]](https://arxiv.org/pdf/2406.11309v2) [code]
