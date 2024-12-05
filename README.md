@@ -24,9 +24,9 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ]  MaPLe: Multi-modal Prompt Learning (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning) 
 
-- [ ] Fine-tuned CLIP Models are Efficient Video Learners (CVPR 2023)[[Paper]](https://arxiv.org/pdf/2212.03640)[[Code]](https://github.com/muzairkhattak/ViFi-CLIP)
+- [ ] Fine-tuned CLIP Models are Efficient Video Learners (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2212.03640)[[Code]](https://github.com/muzairkhattak/ViFi-CLIP)
 
-- [ ] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models (ICLR 2023)[[Paper]](https://arxiv.org/pdf/2210.01253)[[Code]](https://github.com/CHENGY12/PLOT)
+- [ ] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models (ICLR 2023) [[Paper]](https://arxiv.org/pdf/2210.01253)[[Code]](https://github.com/CHENGY12/PLOT)
 
 
 ## Feature Adapters for Vision-Language Models
