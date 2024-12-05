@@ -4,9 +4,11 @@ This repository collects and categorizes top vision-language papers based on the
 ## Contents
 - [Vision-Language Pre-training](#Vision-Language-Pre-training)
 - [Prompt Learning for Vision-Language Models](#Prompt-Learning-for-Vision-Language-Models)
+- [Feature Adapters for Vision-Language Models](#Feature_Adapters_for_Vision-Language_Models)
 - [Regularization-Based Prompt Learning](#Regularization-Based-Prompt-Learning)
 - [Test-Time Adaptation of Vision-Language Models](#Test-Time-Adaptation-of-Vision-Language-Models)
-- [Feature Adapters for Vision-Language Models](#Feature_Adapters_for_Vision-Language_Models)
+- [CLIP-based Domain Generalization](CLIP-based_Domain_Generalization)
+
  
 ## Vision-Language Pre-training 
 
