@@ -45,3 +45,10 @@ This repository collects and categorizes top vision-language papers based on the
 - [ ] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 2024) [[paper]](https://arxiv.org/pdf/2403.18293) [[code]](https://github.com/kdiAAA/TDA)
 
 - [ ] BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models (submitted to ICLR 2024) [[paper]](https://arxiv.org/pdf/2406.11309v2) [code]
+
+
+## CLIP-based Domain Generalization
+
+- [ ] STYLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization (WACV 2024) [[paper]](https://arxiv.org/pdf/2302.09251) [code]
+
+- [ ] AD-CLIP: Adapting Domains in Prompt Space Using CLIP (ICCV-W 2023) [[paper]](https://arxiv.org/pdf/2308.05659) [[code]](https://github.com/mainaksingha01/AD-CLIP)
