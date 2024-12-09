@@ -44,6 +44,8 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Consistency-guided Prompt Learning for Vision-Language Models (ICLR 2024) [[Paper]](https://arxiv.org/pdf/2306.01195)[[Code]](https://github.com/ShuvenduRoy/CoPrompt)
 
+- [ ] Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models (WACV 2024) [[Paper]](https://arxiv.org/pdf/2411.16018)[Code]
+
 ## Test-Time Adaptation of Vision-Language Models
 
 - [ ] Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models (NeurIPS 2022) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/5bf2b802e24106064dc547ae9283bb0c-Paper-Conference.pdf)[[Code]](https://github.com/azshue/TPT)
