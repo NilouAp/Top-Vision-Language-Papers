@@ -31,6 +31,8 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models (ICLR 2023) [[Paper]](https://arxiv.org/pdf/2210.01253)[[Code]](https://github.com/CHENGY12/PLOT)
 
+- [ ] GalLoP: Learning Global and Local Prompts for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.01400?)[[Code]](https://github.com/MarcLafon/gallop)
+
 
 ## Feature Adapters for Vision-Language Models
 
