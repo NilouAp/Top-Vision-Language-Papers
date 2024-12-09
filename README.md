@@ -54,6 +54,8 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 2024) [[paper]](https://arxiv.org/pdf/2403.18293) [[code]](https://github.com/kdiAAA/TDA)
 
+- [ ] Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models (ICML 2024) [[paper]](https://arxiv.org/pdf/2406.02915) [[code]](https://github.com/tmlr-group/WCA)
+
 - [ ] BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models (submitted to ICLR 2024) [[paper]](https://arxiv.org/pdf/2406.11309v2) [code]
 
 
