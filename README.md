@@ -33,6 +33,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] GalLoP: Learning Global and Local Prompts for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.01400?)[[Code]](https://github.com/MarcLafon/gallop)
 
+- [ ] IntCoOp: Interpretability-Aware Vision-Language Prompt Tuning (EMNLP 2024) [[Paper]](https://arxiv.org/pdf/2406.13683)[Code]
 
 ## Feature Adapters for Vision-Language Models
 
