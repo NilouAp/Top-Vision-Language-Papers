@@ -37,6 +37,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Adversarial Prompt Tuning for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2311.11261)[[Code]](https://github.com/TreeLLi/APT)
 
+
 ## Feature Adapters for Vision-Language Models
 
 - [ ] CLIP-Adapter: Better Vision-Language Models with Feature Adapters (IJCV 2024) [[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
