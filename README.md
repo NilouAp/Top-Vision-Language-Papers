@@ -31,14 +31,15 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models (ICLR 2023) [[Paper]](https://arxiv.org/pdf/2210.01253)[[Code]](https://github.com/CHENGY12/PLOT)
 
+- [ ] Gradient-regulated meta-prompt learning for generalizable vision-language models (ICCV 2023) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Gradient-Regulated_Meta-Prompt_Learning_for_Generalizable_Vision-Language_Models_ICCV_2023_paper.pdf)[Code]
+
 - [ ] GalLoP: Learning Global and Local Prompts for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.01400?)[[Code]](https://github.com/MarcLafon/gallop)
 
 - [ ] IntCoOp: Interpretability-Aware Vision-Language Prompt Tuning (EMNLP 2024) [[Paper]](https://arxiv.org/pdf/2406.13683)[Code]
 
 - [ ] Adversarial Prompt Tuning for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2311.11261)[[Code]](https://github.com/TreeLLi/APT)
 
-- [ ] Gradient-regulated meta-prompt learning for generalizable vision-language models (ICCV 2023) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Gradient-Regulated_Meta-Prompt_Learning_for_Generalizable_Vision-Language_Models_ICCV_2023_paper.pdf)[Code]
-
+- [ ] TCP:Textual-based Class-aware Prompt tuning for Visual-Language Model (CVPR 2024)[[Paper]](https://arxiv.org/pdf/2311.18231)[[Code]](https://github.com/htyao89/Textual-based_Class-aware_prompt_tuning/)
 
 ## Feature Adapters for Vision-Language Models
 
