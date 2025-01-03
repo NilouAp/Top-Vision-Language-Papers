@@ -37,6 +37,8 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Adversarial Prompt Tuning for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2311.11261)[[Code]](https://github.com/TreeLLi/APT)
 
+- [ ] Gradient-regulated meta-prompt learning for generalizable vision-language models (ICCV 2023) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Gradient-Regulated_Meta-Prompt_Learning_for_Generalizable_Vision-Language_Models_ICCV_2023_paper.pdf)[Code]
+
 
 ## Feature Adapters for Vision-Language Models
 
@@ -50,7 +52,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Consistency-guided Prompt Learning for Vision-Language Models (ICLR 2024) [[Paper]](https://arxiv.org/pdf/2306.01195)[[Code]](https://github.com/ShuvenduRoy/CoPrompt)
 
-- [ ] Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models (WACV 2024) [[Paper]](https://arxiv.org/pdf/2411.16018)[Code]
+- [ ] Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models (WACV 2025) [[Paper]](https://arxiv.org/pdf/2411.16018)[Code]
 
 ## Test-Time Adaptation of Vision-Language Models
 
