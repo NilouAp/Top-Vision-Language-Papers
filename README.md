@@ -45,6 +45,9 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Quantized Prompt for Efficient Generalization of Vision-Language Models (ECCV 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DePT_Decoupled_Prompt_Tuning_CVPR_2024_paper.pdf)[[Code]](https://github.com/beyondhtx/QPrompt)
 
+- [ ] Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models (ICLR 2024)[[Paper]](https://arxiv.org/pdf/2408.13979)[[Code]](https://github.com/ShyFoo/Nemesis)
+
+
 ## Feature Adapters for Vision-Language Models
 
 - [ ] CLIP-Adapter: Better Vision-Language Models with Feature Adapters (IJCV 2024) [[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
