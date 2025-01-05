@@ -41,7 +41,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] TCP:Textual-based Class-aware Prompt tuning for Visual-Language Model (CVPR 2024)[[Paper]](https://arxiv.org/pdf/2311.18231)[[Code]](https://github.com/htyao89/Textual-based_Class-aware_prompt_tuning/)
 
-- [ ] DePT: Decoupled Prompt Tuning(CVPR 2024)[[Paper]](https://arxiv.org/pdf/2407.10704)[[Code]](https://github.com/Koorye/DePT)
+- [ ] DePT: Decoupled Prompt Tuning (CVPR 2024)[[Paper]](https://arxiv.org/pdf/2407.10704)[[Code]](https://github.com/Koorye/DePT)
 
 - [ ] Quantized Prompt for Efficient Generalization of Vision-Language Models (ECCV 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DePT_Decoupled_Prompt_Tuning_CVPR_2024_paper.pdf)[[Code]](https://github.com/beyondhtx/QPrompt)
 
