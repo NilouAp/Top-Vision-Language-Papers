@@ -33,6 +33,8 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Gradient-regulated meta-prompt learning for generalizable vision-language models (ICCV 2023) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Gradient-Regulated_Meta-Prompt_Learning_for_Generalizable_Vision-Language_Models_ICCV_2023_paper.pdf)[Code]
 
+- [ ] Meta-Adapter: An Online Few-shot Learner for Vision-Language Model (NeurIPS 2023) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ad48f017e6c3d474caf511208e600459-Paper-Conference.pdf)[[Code]](https://github.com/ArsenalCheng/Meta-Adapter)
+
 - [ ] GalLoP: Learning Global and Local Prompts for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.01400?)[[Code]](https://github.com/MarcLafon/gallop)
 
 - [ ] IntCoOp: Interpretability-Aware Vision-Language Prompt Tuning (EMNLP 2024) [[Paper]](https://arxiv.org/pdf/2406.13683)[Code]
@@ -46,8 +48,6 @@ This repository collects and categorizes top vision-language papers based on the
 - [ ] Quantized Prompt for Efficient Generalization of Vision-Language Models (ECCV 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DePT_Decoupled_Prompt_Tuning_CVPR_2024_paper.pdf)[[Code]](https://github.com/beyondhtx/QPrompt)
 
 - [ ] Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models (ICLR 2024) [[Paper]](https://arxiv.org/pdf/2408.13979)[[Code]](https://github.com/ShyFoo/Nemesis)
-
-- [ ] Meta-Adapter: An Online Few-shot Learner for Vision-Language Model (NeurIPS 2023) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ad48f017e6c3d474caf511208e600459-Paper-Conference.pdf)[[Code]](https://github.com/ArsenalCheng/Meta-Adapter)
 
 
 ## Feature Adapters for Vision-Language Models
