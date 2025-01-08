@@ -47,6 +47,8 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models (ICLR 2024)[[Paper]](https://arxiv.org/pdf/2408.13979)[[Code]](https://github.com/ShyFoo/Nemesis)
 
+- [ ] Meta-Adapter: An Online Few-shot Learner for Vision-Language Model (NeurIPS 2023)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ad48f017e6c3d474caf511208e600459-Paper-Conference.pdf)[[Code]](https://github.com/ArsenalCheng/Meta-Adapter)
+
 
 ## Feature Adapters for Vision-Language Models
 
