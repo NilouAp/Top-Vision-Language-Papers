@@ -39,15 +39,15 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Adversarial Prompt Tuning for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2311.11261)[[Code]](https://github.com/TreeLLi/APT)
 
-- [ ] TCP:Textual-based Class-aware Prompt tuning for Visual-Language Model (CVPR 2024)[[Paper]](https://arxiv.org/pdf/2311.18231)[[Code]](https://github.com/htyao89/Textual-based_Class-aware_prompt_tuning/)
+- [ ] TCP:Textual-based Class-aware Prompt tuning for Visual-Language Model (CVPR 2024) [[Paper]](https://arxiv.org/pdf/2311.18231)[[Code]](https://github.com/htyao89/Textual-based_Class-aware_prompt_tuning/)
 
 - [ ] DePT: Decoupled Prompt Tuning (CVPR 2024)[[Paper]](https://arxiv.org/pdf/2407.10704)[[Code]](https://github.com/Koorye/DePT)
 
 - [ ] Quantized Prompt for Efficient Generalization of Vision-Language Models (ECCV 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DePT_Decoupled_Prompt_Tuning_CVPR_2024_paper.pdf)[[Code]](https://github.com/beyondhtx/QPrompt)
 
-- [ ] Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models (ICLR 2024)[[Paper]](https://arxiv.org/pdf/2408.13979)[[Code]](https://github.com/ShyFoo/Nemesis)
+- [ ] Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models (ICLR 2024) [[Paper]](https://arxiv.org/pdf/2408.13979)[[Code]](https://github.com/ShyFoo/Nemesis)
 
-- [ ] Meta-Adapter: An Online Few-shot Learner for Vision-Language Model (NeurIPS 2023)[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ad48f017e6c3d474caf511208e600459-Paper-Conference.pdf)[[Code]](https://github.com/ArsenalCheng/Meta-Adapter)
+- [ ] Meta-Adapter: An Online Few-shot Learner for Vision-Language Model (NeurIPS 2023) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ad48f017e6c3d474caf511208e600459-Paper-Conference.pdf)[[Code]](https://github.com/ArsenalCheng/Meta-Adapter)
 
 
 ## Feature Adapters for Vision-Language Models
