@@ -41,7 +41,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Adversarial Prompt Tuning for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2311.11261)[[Code]](https://github.com/TreeLLi/APT)
 
-- [ ] AAPL: Adding Attributes to Prompt Learning for Vision-Language Models (CVPRW 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/PV/papers/Kim_AAPL_Adding_Attributes_to_Prompt_Learning_for_Vision-Language_Models_CVPRW_2024_paper.pdf)[[Code]](https://github.com/Gahyeonkim09/AAPL)
+- [ ] AAPL: Adding Attributes to Prompt Learning for Vision-Language Models (CVPR-W 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/PV/papers/Kim_AAPL_Adding_Attributes_to_Prompt_Learning_for_Vision-Language_Models_CVPRW_2024_paper.pdf)[[Code]](https://github.com/Gahyeonkim09/AAPL)
 
 - [ ] PromptKD: Unsupervised Prompt Distillation for Vision-Language Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_PromptKD_Unsupervised_Prompt_Distillation_for_Vision-Language_Models_CVPR_2024_paper.pdf)[[Code]](https://github.com/zhengli97/PromptKD)
 
