@@ -41,6 +41,8 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Adversarial Prompt Tuning for Vision-Language Models (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2311.11261)[[Code]](https://github.com/TreeLLi/APT)
 
+- [ ] AAPL: Adding Attributes to Prompt Learning for Vision-Language Models (CVPRW 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/PV/papers/Kim_AAPL_Adding_Attributes_to_Prompt_Learning_for_Vision-Language_Models_CVPRW_2024_paper.pdf)[[Code]](https://github.com/Gahyeonkim09/AAPL)
+
 - [ ] TCP:Textual-based Class-aware Prompt tuning for Visual-Language Model (CVPR 2024) [[Paper]](https://arxiv.org/pdf/2311.18231)[[Code]](https://github.com/htyao89/Textual-based_Class-aware_prompt_tuning/)
 
 - [ ] DePT: Decoupled Prompt Tuning (CVPR 2024)[[Paper]](https://arxiv.org/pdf/2407.10704)[[Code]](https://github.com/Koorye/DePT)
