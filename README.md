@@ -55,6 +55,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models (ICLR 2024) [[Paper]](https://arxiv.org/pdf/2408.13979)[[Code]](https://github.com/ShyFoo/Nemesis)
 
+- [ ] Cascade Prompt Learning for Vision-Language Model Adaptation (ECCV 2025) [[Paper]](https://arxiv.org/pdf/2409.17805)[[Code]](https://github.com/megvii-research/CasPL)
 
 ## Feature Adapters for Vision-Language Models
 
