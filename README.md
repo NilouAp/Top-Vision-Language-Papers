@@ -55,7 +55,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models (ICLR 2024) [[Paper]](https://arxiv.org/pdf/2408.13979)[[Code]](https://github.com/ShyFoo/Nemesis)
 
-- [ ] Prompt Learning with One-Shot Setting based Feature Space Analysis in Vision-and-Language Models (CVPR-W 2024) [[Paper]](hhttps://openaccess.thecvf.com/content/CVPR2024W/LIMIT/papers/Hirohashi_Prompt_Learning_with_One-Shot_Setting_based_Feature_Space_Analysis_in_CVPRW_2024_paper.pdf) [Code]
+- [ ] Prompt Learning with One-Shot Setting based Feature Space Analysis in Vision-and-Language Models (CVPR-W 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/LIMIT/papers/Hirohashi_Prompt_Learning_with_One-Shot_Setting_based_Feature_Space_Analysis_in_CVPRW_2024_paper.pdf)[Code]
 
 - [ ] Cascade Prompt Learning for Vision-Language Model Adaptation (ECCV 2025) [[Paper]](https://arxiv.org/pdf/2409.17805)[[Code]](https://github.com/megvii-research/CasPL)
 
