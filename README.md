@@ -57,7 +57,6 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Prompt Learning with One-Shot Setting based Feature Space Analysis in Vision-and-Language Models (CVPR-W 2024) [[Paper]](hhttps://openaccess.thecvf.com/content/CVPR2024W/LIMIT/papers/Hirohashi_Prompt_Learning_with_One-Shot_Setting_based_Feature_Space_Analysis_in_CVPRW_2024_paper.pdf)[Code]
 
-
 - [ ] Cascade Prompt Learning for Vision-Language Model Adaptation (ECCV 2025) [[Paper]](https://arxiv.org/pdf/2409.17805)[[Code]](https://github.com/megvii-research/CasPL)
 
 ## Feature Adapters for Vision-Language Models
