@@ -59,8 +59,9 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Cascade Prompt Learning for Vision-Language Model Adaptation (ECCV 2025) [[Paper]](https://arxiv.org/pdf/2409.17805)[[Code]](https://github.com/megvii-research/CasPL)
 
-- [ ] AlignCLIP: Enhancing Stable Representations in Vision-Language Pretraining Models through Attention and Prediction Alignment (ICLR 2025) [[Paper]](https://openreview.net/pdf?id=qm46g9Ri15)[[Code]](https://github.com/sarahESL/AlignCLIP)
+- [ ] DECOOP: Robust Prompt Tuning with Out-of-Distribution Detection (ICML 2024) [[Paper]](https://arxiv.org/pdf/2406.00345)[[Code]](https://github.com/WNJXYK/DeCoOp)
 
+- [ ] AlignCLIP: Enhancing Stable Representations in Vision-Language Pretraining Models through Attention and Prediction Alignment (ICLR 2025) [[Paper]](https://openreview.net/pdf?id=qm46g9Ri15)[[Code]](https://github.com/sarahESL/AlignCLIP)
 
 ## Feature Adapters for Vision-Language Models
 
