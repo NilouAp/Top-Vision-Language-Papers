@@ -89,7 +89,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models (ICML 2024) [[paper]](https://arxiv.org/pdf/2406.02915) [[code]](https://github.com/tmlr-group/WCA)
 
-- [ ] BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models (submitted to ICLR 2024) [[paper]](https://arxiv.org/pdf/2406.11309v2) [code]
+- [ ] BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models (submitted to ICLR 2025) [[paper]](https://arxiv.org/pdf/2406.11309v2) [code]
 
 
 ## CLIP-based Domain Generalization
