@@ -105,5 +105,8 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Revisiting Few-Shot Object Detection with Vision-Language Models (NeurIPS 2024) [[paper]](https://arxiv.org/pdf/2312.14494) [[code]](https://github.com/anishmadan23/foundational_fsod)
 
+- [ ] CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching (CVPR 2023) [[paper]](https://arxiv.org/pdf/2303.13076) [[code]](https://github.com/tgxs002/CORA)
+
+
 
 
