@@ -101,7 +101,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Any-Shift Prompting for Generalization over Distributions (CVPR 2024) [[paper]](https://arxiv.org/pdf/2402.10099) [code]
 
-## CLIP-based_Object_Detection
+## CLIP-based Object Detection
 
 - [ ] Revisiting Few-Shot Object Detection with Vision-Language Models (NeurIPS 2024) [[paper]](https://arxiv.org/pdf/2312.14494) [[code]](https://github.com/anishmadan23/foundational_fsod)
 
