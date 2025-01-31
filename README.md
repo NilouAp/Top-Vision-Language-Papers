@@ -8,6 +8,7 @@ This repository collects and categorizes top vision-language papers based on the
 - [Regularization-Based Prompt Learning](#Regularization-Based-Prompt-Learning)
 - [Test-Time Adaptation of Vision-Language Models](#Test-Time-Adaptation-of-Vision-Language-Models)
 - [CLIP-based Domain Generalization](#CLIP-based_Domain_Generalization)
+- [CLIP-based Domain Generalization](#CLIP-based_Object_Detection)
 
  
 ## Vision-Language Pre-training 
@@ -99,4 +100,10 @@ This repository collects and categorizes top vision-language papers based on the
 - [ ] AD-CLIP: Adapting Domains in Prompt Space Using CLIP (ICCV-W 2023) [[paper]](https://arxiv.org/pdf/2308.05659) [[code]](https://github.com/mainaksingha01/AD-CLIP)
 
 - [ ] Any-Shift Prompting for Generalization over Distributions (CVPR 2024) [[paper]](https://arxiv.org/pdf/2402.10099) [code]
+
+## CLIP-based_Object_Detection
+
+- [ ] Revisiting Few-Shot Object Detection with Vision-Language Models (NeurIPS 2024) [[paper]](https://arxiv.org/pdf/2312.14494) [[code]](https://github.com/anishmadan23/foundational_fsod)
+
+
 
