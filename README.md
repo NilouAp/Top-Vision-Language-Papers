@@ -8,7 +8,7 @@ This repository collects and categorizes top vision-language papers based on the
 - [Regularization-Based Prompt Learning](#Regularization-Based-Prompt-Learning)
 - [Test-Time Adaptation of Vision-Language Models](#Test-Time-Adaptation-of-Vision-Language-Models)
 - [CLIP-based Domain Generalization](#CLIP-based_Domain_Generalization)
-- [CLIP-based Domain Generalization](#CLIP-based_Object_Detection)
+- [CLIP-based Object Detection](#CLIP-based_Object_Detection)
 
  
 ## Vision-Language Pre-training 
