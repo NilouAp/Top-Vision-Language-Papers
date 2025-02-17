@@ -19,7 +19,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining (CVPR 2023) [[paper]](https://arxiv.org/pdf/2208.12262)[[Code]](https://github.com/LightDXY/MaskCLIP) 
 
-- [ ] Scaling Language-Image Pre-training via Masking (CVPR 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Scaling_Language-Image_Pre-Training_via_Masking_CVPR_2023_paper.pdf)[[Code]](https://github.com/facebookresearch/flip)
+- [ ] Scaling Language-Image Pre-training via Masking (CVPR 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Scaling_Language-Image_Pre-Training_via_Masking_CVPR_2023_paper.pdf)[Code]
 
 
 ## Prompt Learning for Vision-Language Models
