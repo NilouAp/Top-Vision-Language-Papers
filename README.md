@@ -9,6 +9,7 @@ This repository collects and categorizes top vision-language papers based on the
 - [Test-Time Adaptation of Vision-Language Models](#Test-Time-Adaptation-of-Vision-Language-Models)
 - [CLIP-based Domain Generalization](#CLIP-based_Domain_Generalization)
 - [CLIP-based Object Detection](#CLIP-based_Object_Detection)
+- [CLIP-based Open-Vocabulary Segmentation](#CLIP-based_Open-Vocabulary_Segmentation)
 
  
 ## Vision-Language Pre-training 
@@ -60,7 +61,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] Prompt Learning with One-Shot Setting based Feature Space Analysis in Vision-and-Language Models (CVPR-W 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/LIMIT/papers/Hirohashi_Prompt_Learning_with_One-Shot_Setting_based_Feature_Space_Analysis_in_CVPRW_2024_paper.pdf)[Code]
 
-- [ ] Cascade Prompt Learning for Vision-Language Model Adaptation (ECCV 2025) [[Paper]](https://arxiv.org/pdf/2409.17805)[[Code]](https://github.com/megvii-research/CasPL)
+- [ ] Cascade Prompt Learning for Vision-Language Model Adaptation (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2409.17805)[[Code]](https://github.com/megvii-research/CasPL)
 
 - [ ] DECOOP: Robust Prompt Tuning with Out-of-Distribution Detection (ICML 2024) [[Paper]](https://arxiv.org/pdf/2406.00345)[[Code]](https://github.com/WNJXYK/DeCoOp)
 
@@ -108,6 +109,11 @@ This repository collects and categorizes top vision-language papers based on the
 - [ ] Revisiting Few-Shot Object Detection with Vision-Language Models (NeurIPS 2024) [[paper]](https://arxiv.org/pdf/2312.14494) [[code]](https://github.com/anishmadan23/foundational_fsod)
 
 - [ ] CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching (CVPR 2023) [[paper]](https://arxiv.org/pdf/2303.13076) [[code]](https://github.com/tgxs002/CORA)
+
+
+## CLIP-based Open-Vocabulary Segmentation
+
+- [ ] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation (ECCV 2024) [[paper]](https://arxiv.org/pdf/2408.04883) [[code]](https://github.com/mc-lan/ProxyCLIP)
 
 
 
