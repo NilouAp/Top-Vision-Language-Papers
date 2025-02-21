@@ -115,6 +115,7 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation (ECCV 2024) [[paper]](https://arxiv.org/pdf/2408.04883) [[code]](https://github.com/mc-lan/ProxyCLIP)
 
+- [ ] Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation (Under review) [[paper]](https://arxiv.org/pdf/2411.15869) [[code]](https://github.com/SuleBai/SC-CLIP)
 
 
 
