@@ -67,6 +67,9 @@ This repository collects and categorizes top vision-language papers based on the
 
 - [ ] AlignCLIP: Enhancing Stable Representations in Vision-Language Pretraining Models through Attention and Prediction Alignment (ICLR 2025) [[Paper]](https://openreview.net/pdf?id=qm46g9Ri15)[[Code]](https://github.com/sarahESL/AlignCLIP)
 
+- [ ] ArGue: Attribute-Guided Prompt Tuning for Vision-Language Models (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_ArGue_Attribute-Guided_Prompt_Tuning_for_Vision-Language_Models_CVPR_2024_paper.pdf)[[Code]](https://github.com/PotatoClock14/ArGue)
+
+
 ## Feature Adapters for Vision-Language Models
 
 - [ ] CLIP-Adapter: Better Vision-Language Models with Feature Adapters (IJCV 2024) [[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
